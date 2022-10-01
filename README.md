@@ -1,1 +1,1 @@
-# mini-project-wordgame
+# Mini_Project_WordGame
