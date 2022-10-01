@@ -7,7 +7,37 @@ var timerEl = document.getElementById("timer");
 var wordEl = document.getElementById("word")
 
 /* array of words */
-var wordList = ['HANGMAN', "GUESS AGAIN"];
+var wordList = ['look',
+'patrol',
+'slow',
+'opera',
+'difficult',
+'vehicle',
+'fade',
+'budget',
+'calendar',
+'mixture',
+'dozen',
+'thank',
+'beam',
+'message',
+'expand',
+'salad',
+'jury',
+'install',
+'cabin',
+'bark',
+'beer',
+'troop',
+'drawing',
+'poison',
+'productive',
+'disappear',
+'percent',
+'dignity',
+'option',
+'bench'];
+
 var wordIndex;
 
 /* results */
